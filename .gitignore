@@ -1,0 +1,8 @@
+.DS_Store
+*.pyc
+*~
+/dist
+/build
+/rough.egg-info
+/venv
+/.vscode
